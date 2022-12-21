@@ -1,0 +1,15 @@
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\bin\Debug\net6.0\CS.AI.exe
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\bin\Debug\net6.0\CS.AI.deps.json
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\bin\Debug\net6.0\CS.AI.runtimeconfig.json
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\bin\Debug\net6.0\CS.AI.dll
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\bin\Debug\net6.0\CS.AI.pdb
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.csproj.AssemblyReference.cache
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.AssemblyInfoInputs.cache
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.AssemblyInfo.cs
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.dll
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\refint\CS.AI.dll
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.pdb
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\CS.AI.genruntimeconfig.cache
+C:\Users\Laptop Shop\Desktop\CS.AI\CS.AI\obj\Debug\net6.0\ref\CS.AI.dll
